@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cae90ccb-3f49-4291-8071-2cf8a221d259" name="Default Changelist" comment="Default Changelist">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +92,7 @@
       <option name="presentableId" value="Default" />
       <updated>1578921581166</updated>
       <workItem from="1578921586369" duration="49000" />
-      <workItem from="1578921655719" duration="1082000" />
+      <workItem from="1578921655719" duration="1595000" />
     </task>
     <task id="LOCAL-00001" summary="Default Changelist">
       <created>1578922466377</created>
@@ -108,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578922476559</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Default Changelist">
+      <created>1578922848868</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1578922848868</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,22 +126,22 @@
     <option name="LAST_COMMIT_MESSAGE" value="Default Changelist" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="566" y="178" key="CommitChangelistDialog2" timestamp="1578922475956">
+    <state x="566" y="178" key="CommitChangelistDialog2" timestamp="1578923258938">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="566" y="178" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1578922475956" />
-    <state x="740" y="338" key="FileChooserDialogImpl" timestamp="1578922813962">
+    <state x="566" y="178" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1578923258938" />
+    <state x="740" y="338" key="FileChooserDialogImpl" timestamp="1578923229359">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="740" y="338" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1578922813962" />
+    <state x="740" y="338" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1578923229359" />
     <state x="785" y="494" width="373" height="171" key="Github.CreateGistDialog" timestamp="1578922329649">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="785" y="494" width="373" height="171" key="Github.CreateGistDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1578922329649" />
-    <state x="835" y="476" width="274" height="208" key="Github.ShareDialog" timestamp="1578922837334">
+    <state x="835" y="476" width="274" height="208" key="Github.ShareDialog" timestamp="1578923295975">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="835" y="476" width="274" height="208" key="Github.ShareDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1578922837334" />
+    <state x="835" y="476" width="274" height="208" key="Github.ShareDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1578923295975" />
     <state width="1877" height="321" key="GridCell.Tab.0.bottom" timestamp="1578922432082">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
