@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="cae90ccb-3f49-4291-8071-2cf8a221d259" name="Default Changelist" comment="Default Changelist">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02/2.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/02/2.1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +39,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="RunManager">
     <configuration name="2.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -95,7 +94,7 @@
       <updated>1578921581166</updated>
       <workItem from="1578921586369" duration="49000" />
       <workItem from="1578921655719" duration="1884000" />
-      <workItem from="1578923565688" duration="320000" />
+      <workItem from="1578923565688" duration="512000" />
     </task>
     <task id="LOCAL-00001" summary="Default Changelist">
       <created>1578922466377</created>
@@ -139,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578923487316</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Default Changelist">
+      <created>1578923894812</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1578923894812</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,10 +156,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Default Changelist" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="566" y="178" key="CommitChangelistDialog2" timestamp="1578923486746">
+    <state x="566" y="178" key="CommitChangelistDialog2" timestamp="1578923894162">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="566" y="178" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1578923486746" />
+    <state x="566" y="178" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1578923894162" />
     <state x="740" y="338" key="FileChooserDialogImpl" timestamp="1578923229359">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -166,26 +172,26 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="835" y="476" width="274" height="208" key="Github.ShareDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1578923463535" />
-    <state width="938" height="321" key="GridCell.Tab.0.bottom" timestamp="1578923876138">
+    <state width="938" height="321" key="GridCell.Tab.0.bottom" timestamp="1578924078270">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="938" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1578923876138" />
-    <state width="938" height="321" key="GridCell.Tab.0.center" timestamp="1578923876137">
+    <state width="938" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1578924078270" />
+    <state width="938" height="321" key="GridCell.Tab.0.center" timestamp="1578924078270">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="938" height="321" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1578923876137" />
-    <state width="938" height="321" key="GridCell.Tab.0.left" timestamp="1578923876137">
+    <state width="938" height="321" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1578924078270" />
+    <state width="938" height="321" key="GridCell.Tab.0.left" timestamp="1578924078270">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="938" height="321" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1578923876137" />
-    <state width="938" height="321" key="GridCell.Tab.0.right" timestamp="1578923876137">
+    <state width="938" height="321" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1578924078270" />
+    <state width="938" height="321" key="GridCell.Tab.0.right" timestamp="1578924078270">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="938" height="321" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1578923876137" />
-    <state x="463" y="225" key="SettingsEditor" timestamp="1578921903351">
+    <state width="938" height="321" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1578924078270" />
+    <state x="463" y="225" key="SettingsEditor" timestamp="1578924077574">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="463" y="225" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1578921903351" />
+    <state x="463" y="225" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1578924077574" />
     <state x="552" y="316" key="Vcs.Push.Dialog.v2" timestamp="1578923690655">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -198,6 +204,10 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="754" y="498" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1160@0.0.1920.1160" timestamp="1578923472652" />
+    <state x="678" y="382" key="git4idea.merge.GitPullDialog" timestamp="1579004602211">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="678" y="382" key="git4idea.merge.GitPullDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1579004602211" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python$2_1.coverage" NAME="2.1 Coverage Results" MODIFIED="1578923876120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02" />
