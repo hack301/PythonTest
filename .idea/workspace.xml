@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cae90ccb-3f49-4291-8071-2cf8a221d259" name="Default Changelist" comment="Default Changelist">
-      <change afterPath="$PROJECT_DIR$/02/mysql.py" afterDir="false" />
+    <list default="true" id="cae90ccb-3f49-4291-8071-2cf8a221d259" name="Default Changelist" comment="添加mysql测试">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02/2.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/02/2.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02/mysql.py" beforeDir="false" afterPath="$PROJECT_DIR$/runoob/mysql.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +44,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Hack301\Code\PythonTest\runoob" />
+    </key>
+  </component>
   <component name="RunManager" selected="Python.mysql">
     <configuration name="2.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
@@ -81,7 +85,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02/mysql.py" />
+      <option name="SCRIPT_NAME" value="D:\Hack301\Code\PythonTest\runoob\mysql.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -122,7 +126,7 @@
       <workItem from="1578921586369" duration="49000" />
       <workItem from="1578921655719" duration="1595000" />
       <workItem from="1578961456837" duration="2285000" />
-      <workItem from="1578984164140" duration="4130000" />
+      <workItem from="1578984164140" duration="4814000" />
     </task>
     <task id="LOCAL-00001" summary="Default Changelist">
       <created>1578922466377</created>
@@ -152,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578987082449</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="添加mysql测试">
+      <created>1578992401077</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1578992401077</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,13 +171,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Default Changelist" />
-    <option name="LAST_COMMIT_MESSAGE" value="Default Changelist" />
+    <MESSAGE value="添加mysql测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加mysql测试" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="566" y="160" key="CommitChangelistDialog2" timestamp="1578987058582">
+    <state x="566" y="160" key="CommitChangelistDialog2" timestamp="1578992400380">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="566" y="160" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578987058582" />
+    <state x="566" y="160" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578992400380" />
     <state x="566" y="178" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1578923431877" />
     <state x="740" y="338" key="FileChooserDialogImpl" timestamp="1578923229359">
       <screen x="0" y="0" width="1920" height="1160" />
@@ -205,10 +217,10 @@
     </state>
     <state x="463" y="202" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1578961572470" />
     <state x="463" y="225" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1578921903351" />
-    <state x="552" y="283" key="Vcs.Push.Dialog.v2" timestamp="1578992387341">
+    <state x="552" y="283" key="Vcs.Push.Dialog.v2" timestamp="1578992407302">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="283" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578992387341" />
+    <state x="552" y="283" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578992407302" />
     <state x="552" y="316" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1578923348040" />
     <state x="652" y="408" key="com.intellij.ide.util.TipDialog" timestamp="1578921587807">
       <screen x="0" y="0" width="1920" height="1160" />
