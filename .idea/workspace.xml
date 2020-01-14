@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cae90ccb-3f49-4291-8071-2cf8a221d259" name="Default Changelist" comment="Default Changelist">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Administrator.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02/mysql.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/02/2.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/02/2.1.py" afterDir="false" />
     </list>
@@ -32,7 +30,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1WLGhUE4YpJ4C19BqfPamNHftow" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="添加" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -45,7 +45,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.mysql">
     <configuration name="2.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -68,8 +68,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="mysql" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02/mysql.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.mysql" />
         <item itemvalue="Python.2.1" />
       </list>
     </recent_temporary>
@@ -99,7 +122,7 @@
       <workItem from="1578921586369" duration="49000" />
       <workItem from="1578921655719" duration="1595000" />
       <workItem from="1578961456837" duration="2285000" />
-      <workItem from="1578984164140" duration="599000" />
+      <workItem from="1578984164140" duration="4130000" />
     </task>
     <task id="LOCAL-00001" summary="Default Changelist">
       <created>1578922466377</created>
@@ -122,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578922848868</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Default Changelist">
+      <created>1578987082449</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1578987082449</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,34 +180,35 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="835" y="476" width="274" height="208" key="Github.ShareDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1578923463535" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1578987019981">
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom" timestamp="1578992366469">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578987019981" />
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578992366469" />
     <state width="1877" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1578922432082" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1578987019980">
+    <state width="1877" height="279" key="GridCell.Tab.0.center" timestamp="1578992366469">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578987019980" />
+    <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578992366469" />
     <state width="1877" height="321" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1578922432081" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1578987019980">
+    <state width="1877" height="279" key="GridCell.Tab.0.left" timestamp="1578992366469">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578987019980" />
+    <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578992366469" />
     <state width="1877" height="321" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1578922432081" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1578987019980">
+    <state width="1877" height="279" key="GridCell.Tab.0.right" timestamp="1578992366469">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578987019980" />
+    <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578992366469" />
     <state width="1877" height="321" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1578922432081" />
     <state x="463" y="202" key="SettingsEditor" timestamp="1578961572470">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="463" y="202" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1578961572470" />
     <state x="463" y="225" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1578921903351" />
-    <state x="552" y="316" key="Vcs.Push.Dialog.v2" timestamp="1578923348040">
-      <screen x="0" y="0" width="1920" height="1160" />
+    <state x="552" y="283" key="Vcs.Push.Dialog.v2" timestamp="1578992387341">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="552" y="283" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578992387341" />
     <state x="552" y="316" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1578923348040" />
     <state x="652" y="408" key="com.intellij.ide.util.TipDialog" timestamp="1578921587807">
       <screen x="0" y="0" width="1920" height="1160" />
@@ -190,6 +221,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonTest$2_1.coverage" NAME="2.1 Coverage Results" MODIFIED="1578987019969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02" />
+    <SUITE FILE_PATH="coverage/PythonTest$mysql.coverage" NAME="mysql Coverage Results" MODIFIED="1578992366459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02" />
     <SUITE FILE_PATH="coverage/python$2_1.coverage" NAME="2.1 Coverage Results" MODIFIED="1578922199195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02" />
   </component>
 </project>
