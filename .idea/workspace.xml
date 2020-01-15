@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cae90ccb-3f49-4291-8071-2cf8a221d259" name="Default Changelist" comment="Default Changelist">
+    <list default="true" id="cae90ccb-3f49-4291-8071-2cf8a221d259" name="Default Changelist" comment="添加字符串学习">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02/2.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/02/2.1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +18,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -118,7 +117,8 @@
       <updated>1578921581166</updated>
       <workItem from="1578921586369" duration="49000" />
       <workItem from="1578921655719" duration="1595000" />
-      <workItem from="1579004703010" duration="2928000" />
+      <workItem from="1579004703010" duration="2961000" />
+      <workItem from="1579092925660" duration="248000" />
     </task>
     <task id="LOCAL-00001" summary="Default Changelist">
       <created>1578922466377</created>
@@ -148,7 +148,28 @@
       <option name="project" value="LOCAL" />
       <updated>1579004762785</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="添加字符串学习">
+      <created>1579046801907</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1579046801907</updated>
+    </task>
+    <task id="LOCAL-00006" summary="添加字符串学习">
+      <created>1579093032166</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1579093032166</updated>
+    </task>
+    <task id="LOCAL-00007" summary="添加字符串学习">
+      <created>1579093711423</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1579093711423</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,13 +177,19 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Default Changelist" />
-    <option name="LAST_COMMIT_MESSAGE" value="Default Changelist" />
+    <MESSAGE value="添加字符串学习" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加字符串学习" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="566" y="178" key="CommitChangelistDialog2" timestamp="1579004762113">
+    <state x="566" y="178" key="CommitChangelistDialog2" timestamp="1579093066634">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="566" y="178" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1579004762113" />
+    <state x="566" y="160" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579046801101" />
+    <state x="566" y="178" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1579093066634" />
+    <state x="92" y="92" width="1736" height="976" key="DiffContextDialog" timestamp="1579093350177">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="92" y="92" width="1736" height="976" key="DiffContextDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1579093350177" />
     <state x="740" y="338" key="FileChooserDialogImpl" timestamp="1578923229359">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -175,42 +202,55 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="835" y="476" width="274" height="208" key="Github.ShareDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1578923463535" />
-    <state width="924" height="321" key="GridCell.Tab.0.bottom" timestamp="1579007831859">
-      <screen x="0" y="0" width="1920" height="1160" />
+    <state width="924" height="321" key="GridCell.Tab.0.bottom" timestamp="1579046821191">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="924" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579046821191" />
     <state width="924" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1579007831859" />
-    <state width="924" height="321" key="GridCell.Tab.0.center" timestamp="1579007831859">
-      <screen x="0" y="0" width="1920" height="1160" />
+    <state width="924" height="321" key="GridCell.Tab.0.center" timestamp="1579046821190">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="924" height="321" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579046821190" />
     <state width="924" height="321" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1579007831859" />
-    <state width="924" height="321" key="GridCell.Tab.0.left" timestamp="1579007831858">
-      <screen x="0" y="0" width="1920" height="1160" />
+    <state width="924" height="321" key="GridCell.Tab.0.left" timestamp="1579046821190">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="924" height="321" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579046821190" />
     <state width="924" height="321" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1579007831858" />
-    <state width="924" height="321" key="GridCell.Tab.0.right" timestamp="1579007831859">
-      <screen x="0" y="0" width="1920" height="1160" />
+    <state width="924" height="321" key="GridCell.Tab.0.right" timestamp="1579046821190">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="924" height="321" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579046821190" />
     <state width="924" height="321" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1579007831859" />
-    <state x="463" y="225" key="SettingsEditor" timestamp="1579004716235">
+    <state x="463" y="225" key="SettingsEditor" timestamp="1579093831815">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="463" y="225" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1579004716235" />
-    <state x="552" y="316" key="Vcs.Push.Dialog.v2" timestamp="1579004771116">
+    <state x="463" y="225" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1579093831815" />
+    <state x="552" y="316" key="Vcs.Push.Dialog.v2" timestamp="1579093055431">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="552" y="316" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1579004771116" />
+    <state x="552" y="283" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579046810065" />
+    <state x="552" y="316" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1579093055431" />
     <state x="652" y="408" key="com.intellij.ide.util.TipDialog" timestamp="1578921587807">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="652" y="408" key="com.intellij.ide.util.TipDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1578921587807" />
-    <state x="754" y="498" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579004733726">
+    <state x="754" y="498" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579093705275">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="754" y="498" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1160@0.0.1920.1160" timestamp="1579004733726" />
-    <state x="678" y="382" key="git4idea.merge.GitPullDialog" timestamp="1579004746245">
+    <state x="754" y="498" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1160@0.0.1920.1160" timestamp="1579093705275" />
+    <state x="749" y="382" key="git4idea.merge.GitMergeDialog" timestamp="1579093311178">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="678" y="382" key="git4idea.merge.GitPullDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1579004746245" />
+    <state x="749" y="382" key="git4idea.merge.GitMergeDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1579093311178" />
+    <state x="678" y="382" key="git4idea.merge.GitPullDialog" timestamp="1579093157694">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="678" y="382" key="git4idea.merge.GitPullDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1579093157694" />
+    <state x="771" y="486" key="git4idea.ui.GitResetDialog" timestamp="1579093699896">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="771" y="486" key="git4idea.ui.GitResetDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1579093699896" />
     <state x="623" y="255" width="672" height="678" key="search.everywhere.popup" timestamp="1579007244029">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
