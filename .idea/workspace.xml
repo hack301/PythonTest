@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cae90ccb-3f49-4291-8071-2cf8a221d259" name="Default Changelist" comment="修改连接字符串">
-      <change afterPath="$PROJECT_DIR$/runoob/01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runoob/02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runoob/03.py" afterDir="false" />
+    <list default="true" id="cae90ccb-3f49-4291-8071-2cf8a221d259" name="Default Changelist" comment="添加相关实例">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02/2.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/02/2.1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/runoob/mysql.py" beforeDir="false" afterPath="$PROJECT_DIR$/runoob/mysql.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -200,7 +195,7 @@
       <workItem from="1578921655719" duration="1595000" />
       <workItem from="1579004703010" duration="2928000" />
       <workItem from="1579046887558" duration="611000" />
-      <workItem from="1579055072550" duration="9759000" />
+      <workItem from="1579055072550" duration="10739000" />
     </task>
     <task id="LOCAL-00001" summary="Default Changelist">
       <created>1578922466377</created>
@@ -244,7 +239,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579058174856</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="添加相关实例">
+      <created>1579077459214</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1579077459214</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -254,17 +256,18 @@
     <MESSAGE value="Default Changelist" />
     <MESSAGE value="添加相关功能" />
     <MESSAGE value="修改连接字符串" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改连接字符串" />
+    <MESSAGE value="添加相关实例" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加相关实例" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="182" key="#Deployment" timestamp="1579055710569">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="182" key="#Deployment/0.0.1920.1040@0.0.1920.1040" timestamp="1579055710569" />
-    <state x="566" y="160" key="CommitChangelistDialog2" timestamp="1579058174278">
+    <state x="566" y="160" key="CommitChangelistDialog2" timestamp="1579077458442">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="566" y="160" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579058174278" />
+    <state x="566" y="160" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579077458442" />
     <state x="566" y="178" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1579004762113" />
     <state x="740" y="338" key="FileChooserDialogImpl" timestamp="1578923229359">
       <screen x="0" y="0" width="1920" height="1160" />
