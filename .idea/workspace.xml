@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cae90ccb-3f49-4291-8071-2cf8a221d259" name="Default Changelist" comment="添加字符串学习" />
+    <list default="true" id="cae90ccb-3f49-4291-8071-2cf8a221d259" name="Default Changelist" comment="添加字符串学习">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -116,6 +118,7 @@
       <workItem from="1578921586369" duration="49000" />
       <workItem from="1578921655719" duration="1595000" />
       <workItem from="1579004703010" duration="2961000" />
+      <workItem from="1579092925660" duration="248000" />
     </task>
     <task id="LOCAL-00001" summary="Default Changelist">
       <created>1578922466377</created>
@@ -152,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579046801907</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="添加字符串学习">
+      <created>1579093032166</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1579093032166</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,11 +174,15 @@
     <option name="LAST_COMMIT_MESSAGE" value="添加字符串学习" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="566" y="160" key="CommitChangelistDialog2" timestamp="1579046801101">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="566" y="178" key="CommitChangelistDialog2" timestamp="1579093066634">
+      <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="566" y="160" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579046801101" />
-    <state x="566" y="178" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1579004762113" />
+    <state x="566" y="178" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1579093066634" />
+    <state x="92" y="92" width="1736" height="976" key="DiffContextDialog" timestamp="1579093350177">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="92" y="92" width="1736" height="976" key="DiffContextDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1579093350177" />
     <state x="740" y="338" key="FileChooserDialogImpl" timestamp="1578923229359">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -205,23 +219,27 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="463" y="225" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1579004716235" />
-    <state x="552" y="283" key="Vcs.Push.Dialog.v2" timestamp="1579046810065">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="552" y="316" key="Vcs.Push.Dialog.v2" timestamp="1579093055431">
+      <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="552" y="283" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579046810065" />
-    <state x="552" y="316" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1579004771116" />
+    <state x="552" y="316" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1579093055431" />
     <state x="652" y="408" key="com.intellij.ide.util.TipDialog" timestamp="1578921587807">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="652" y="408" key="com.intellij.ide.util.TipDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1578921587807" />
-    <state x="754" y="498" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579093022619">
+    <state x="754" y="498" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579093248150">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="754" y="498" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1160@0.0.1920.1160" timestamp="1579093022619" />
-    <state x="678" y="382" key="git4idea.merge.GitPullDialog" timestamp="1579004746245">
+    <state x="754" y="498" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1160@0.0.1920.1160" timestamp="1579093248150" />
+    <state x="749" y="382" key="git4idea.merge.GitMergeDialog" timestamp="1579093311178">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="678" y="382" key="git4idea.merge.GitPullDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1579004746245" />
+    <state x="749" y="382" key="git4idea.merge.GitMergeDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1579093311178" />
+    <state x="678" y="382" key="git4idea.merge.GitPullDialog" timestamp="1579093157694">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="678" y="382" key="git4idea.merge.GitPullDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1579093157694" />
     <state x="623" y="255" width="672" height="678" key="search.everywhere.popup" timestamp="1579007244029">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
