@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cae90ccb-3f49-4291-8071-2cf8a221d259" name="Default Changelist" comment="添加字符串学习">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cae90ccb-3f49-4291-8071-2cf8a221d259" name="Default Changelist" comment="添加字符串学习" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +16,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -228,10 +226,10 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="652" y="408" key="com.intellij.ide.util.TipDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1578921587807" />
-    <state x="754" y="498" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579093248150">
+    <state x="754" y="498" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579093705275">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="754" y="498" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1160@0.0.1920.1160" timestamp="1579093248150" />
+    <state x="754" y="498" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1160@0.0.1920.1160" timestamp="1579093705275" />
     <state x="749" y="382" key="git4idea.merge.GitMergeDialog" timestamp="1579093311178">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -240,6 +238,10 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="678" y="382" key="git4idea.merge.GitPullDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1579093157694" />
+    <state x="771" y="486" key="git4idea.ui.GitResetDialog" timestamp="1579093699896">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="771" y="486" key="git4idea.ui.GitResetDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1579093699896" />
     <state x="623" y="255" width="672" height="678" key="search.everywhere.popup" timestamp="1579007244029">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
