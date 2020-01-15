@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 import pymysql
-db=pymysql.connect("192.168.192.118","root","pan19881220.","ISeeTest")
+db=pymysql.connect("192.168.192.118","ISee","rsJcAWeSeX85aWGD","ISee")
 cursor=db.cursor()
 cursor.execute("select * from User")
 data=cursor.fetchall()
