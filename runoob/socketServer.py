@@ -15,13 +15,17 @@ while True:
     print('waiting for connection...')
     tcpCliSock,addr =tcpSerSock.accept()
     print('...connected from:',addr)
-
+    dataSrt=""
     while True:
-        data =tcpCliSock.recv(BUFSIZ).decode()
-        print('date=',data)
+        data: str =tcpCliSock.recv(BUFSIZ).decode()
+        if data!='\r\n':
+            dataSrt=dataSrt+data;
+        else :
+            print('接收数据:',dataSrt)
+            tcpCliSock.send(('\r\n[%s] %s' % (ctime(), dataSrt)+'\r\n').encode())
+            dataSrt="";
         if not data:
             break
-        tcpCliSock.send(('[%s] %s' %(ctime(),data)).encode())
 
     tcpCliSock.close()
 tcpSerSock.close()

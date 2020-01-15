@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cae90ccb-3f49-4291-8071-2cf8a221d259" name="Default Changelist" comment="添加相关实例">
+    <list default="true" id="cae90ccb-3f49-4291-8071-2cf8a221d259" name="Default Changelist" comment="修改socket端口">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/runoob/socketServer.py" beforeDir="false" afterPath="$PROJECT_DIR$/runoob/socketServer.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -195,7 +196,7 @@
       <workItem from="1578921655719" duration="1595000" />
       <workItem from="1579004703010" duration="2928000" />
       <workItem from="1579046887558" duration="611000" />
-      <workItem from="1579055072550" duration="10739000" />
+      <workItem from="1579055072550" duration="12072000" />
     </task>
     <task id="LOCAL-00001" summary="Default Changelist">
       <created>1578922466377</created>
@@ -246,7 +247,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579077459214</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="修改socket端口">
+      <created>1579078510423</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1579078510423</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -257,17 +265,18 @@
     <MESSAGE value="添加相关功能" />
     <MESSAGE value="修改连接字符串" />
     <MESSAGE value="添加相关实例" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加相关实例" />
+    <MESSAGE value="修改socket端口" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改socket端口" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="182" key="#Deployment" timestamp="1579055710569">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="182" key="#Deployment/0.0.1920.1040@0.0.1920.1040" timestamp="1579055710569" />
-    <state x="566" y="160" key="CommitChangelistDialog2" timestamp="1579077458442">
+    <state x="566" y="160" key="CommitChangelistDialog2" timestamp="1579078509790">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="566" y="160" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579077458442" />
+    <state x="566" y="160" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579078509790" />
     <state x="566" y="178" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1579004762113" />
     <state x="740" y="338" key="FileChooserDialogImpl" timestamp="1578923229359">
       <screen x="0" y="0" width="1920" height="1160" />
@@ -281,35 +290,51 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="835" y="476" width="274" height="208" key="Github.ShareDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1578923463535" />
-    <state width="1877" height="276" key="GridCell.Tab.0.bottom" timestamp="1579077381056">
+    <state width="1877" height="276" key="GridCell.Tab.0.bottom" timestamp="1579079784258">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579077381056" />
+    <state width="1877" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579079784258" />
     <state width="924" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1579007831859" />
-    <state width="1877" height="276" key="GridCell.Tab.0.center" timestamp="1579077381056">
+    <state width="1877" height="276" key="GridCell.Tab.0.center" timestamp="1579079784258">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="276" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579077381056" />
+    <state width="1877" height="276" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579079784258" />
     <state width="924" height="321" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1579007831859" />
-    <state width="1877" height="276" key="GridCell.Tab.0.left" timestamp="1579077381056">
+    <state width="1877" height="276" key="GridCell.Tab.0.left" timestamp="1579079784257">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="276" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579077381056" />
+    <state width="1877" height="276" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579079784257" />
     <state width="924" height="321" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1579007831858" />
-    <state width="1877" height="276" key="GridCell.Tab.0.right" timestamp="1579077381056">
+    <state width="1877" height="276" key="GridCell.Tab.0.right" timestamp="1579079784258">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="276" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579077381056" />
+    <state width="1877" height="276" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579079784258" />
     <state width="924" height="321" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1579007831859" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1579079077927">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579079077927" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1579079077927">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579079077927" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1579079077927">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579079077927" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1579079077927">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579079077927" />
     <state x="463" y="202" key="SettingsEditor" timestamp="1579056347548">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="463" y="202" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579056347548" />
     <state x="463" y="225" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1579004716235" />
-    <state x="552" y="283" key="Vcs.Push.Dialog.v2" timestamp="1579058190460">
+    <state x="552" y="283" key="Vcs.Push.Dialog.v2" timestamp="1579078523089">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="283" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579058190460" />
+    <state x="552" y="283" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579078523089" />
     <state x="552" y="316" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1579004771116" />
     <state x="652" y="408" key="com.intellij.ide.util.TipDialog" timestamp="1578921587807">
       <screen x="0" y="0" width="1920" height="1160" />
@@ -339,7 +364,7 @@
     <SUITE FILE_PATH="coverage/PythonTest$2_1.coverage" NAME="2.1 Coverage Results" MODIFIED="1579076460835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02" />
     <SUITE FILE_PATH="coverage/PythonTest$mysql.coverage" NAME="mysql Coverage Results" MODIFIED="1579058526386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runoob" />
     <SUITE FILE_PATH="coverage/python$2_1.coverage" NAME="2.1 Coverage Results" MODIFIED="1579007831845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02" />
-    <SUITE FILE_PATH="coverage/PythonTest$socketServer.coverage" NAME="socketServer Coverage Results" MODIFIED="1579077381051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runoob" />
+    <SUITE FILE_PATH="coverage/PythonTest$socketServer.coverage" NAME="socketServer Coverage Results" MODIFIED="1579079784253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runoob" />
     <SUITE FILE_PATH="coverage/PythonTest$03.coverage" NAME="03 Coverage Results" MODIFIED="1579076835375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runoob" />
   </component>
 </project>
