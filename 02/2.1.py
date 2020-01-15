@@ -1,4 +1,4 @@
-#!/usr/bin/python3.6
+#! /usr/bin/env python3
 # #单行注释
 a=5
 print(a)
