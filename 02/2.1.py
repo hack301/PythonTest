@@ -1,4 +1,5 @@
-#单行注释
+#!/usr/bin/python3.6
+# #单行注释
 a=5
 print(a)
 print(1+5)

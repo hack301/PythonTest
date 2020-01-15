@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cae90ccb-3f49-4291-8071-2cf8a221d259" name="Default Changelist" comment="Default Changelist">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/02/2.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/02/2.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/runoob/mysql.py" beforeDir="false" afterPath="$PROJECT_DIR$/runoob/mysql.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,11 +44,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
-  <component name="RunManager" selected="Python.2.1">
+  <component name="RunManager" selected="Python.mysql">
     <configuration name="2.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -89,8 +100,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.2.1" />
         <item itemvalue="Python.mysql" />
+        <item itemvalue="Python.2.1" />
       </list>
     </recent_temporary>
   </component>
@@ -119,6 +130,8 @@
       <workItem from="1578921586369" duration="49000" />
       <workItem from="1578921655719" duration="1595000" />
       <workItem from="1579004703010" duration="2928000" />
+      <workItem from="1579046887558" duration="611000" />
+      <workItem from="1579055072550" duration="2279000" />
     </task>
     <task id="LOCAL-00001" summary="Default Changelist">
       <created>1578922466377</created>
@@ -159,6 +172,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Default Changelist" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="552" y="182" key="#Deployment" timestamp="1579055710569">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="182" key="#Deployment/0.0.1920.1040@0.0.1920.1040" timestamp="1579055710569" />
     <state x="566" y="178" key="CommitChangelistDialog2" timestamp="1579004762113">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -175,25 +192,30 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="835" y="476" width="274" height="208" key="Github.ShareDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1578923463535" />
-    <state width="924" height="321" key="GridCell.Tab.0.bottom" timestamp="1579007831859">
-      <screen x="0" y="0" width="1920" height="1160" />
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom" timestamp="1579056500093">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579056500093" />
     <state width="924" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1579007831859" />
-    <state width="924" height="321" key="GridCell.Tab.0.center" timestamp="1579007831859">
-      <screen x="0" y="0" width="1920" height="1160" />
+    <state width="1877" height="279" key="GridCell.Tab.0.center" timestamp="1579056500092">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579056500092" />
     <state width="924" height="321" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1579007831859" />
-    <state width="924" height="321" key="GridCell.Tab.0.left" timestamp="1579007831858">
-      <screen x="0" y="0" width="1920" height="1160" />
+    <state width="1877" height="279" key="GridCell.Tab.0.left" timestamp="1579056500092">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579056500092" />
     <state width="924" height="321" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1579007831858" />
-    <state width="924" height="321" key="GridCell.Tab.0.right" timestamp="1579007831859">
-      <screen x="0" y="0" width="1920" height="1160" />
+    <state width="1877" height="279" key="GridCell.Tab.0.right" timestamp="1579056500092">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579056500092" />
     <state width="924" height="321" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1579007831859" />
-    <state x="463" y="225" key="SettingsEditor" timestamp="1579004716235">
-      <screen x="0" y="0" width="1920" height="1160" />
+    <state x="463" y="202" key="SettingsEditor" timestamp="1579056347548">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="463" y="202" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579056347548" />
     <state x="463" y="225" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1579004716235" />
     <state x="552" y="316" key="Vcs.Push.Dialog.v2" timestamp="1579004771116">
       <screen x="0" y="0" width="1920" height="1160" />
@@ -207,6 +229,10 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="754" y="498" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1160@0.0.1920.1160" timestamp="1579004733726" />
+    <state x="774" y="257" key="ftp.server.browser" timestamp="1579055441789">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="774" y="257" key="ftp.server.browser/0.0.1920.1040@0.0.1920.1040" timestamp="1579055441789" />
     <state x="678" y="382" key="git4idea.merge.GitPullDialog" timestamp="1579004746245">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -218,6 +244,8 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python$mysql.coverage" NAME="mysql Coverage Results" MODIFIED="1579004843992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runoob" />
+    <SUITE FILE_PATH="coverage/PythonTest$2_1.coverage" NAME="2.1 Coverage Results" MODIFIED="1579056352396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02" />
+    <SUITE FILE_PATH="coverage/PythonTest$mysql.coverage" NAME="mysql Coverage Results" MODIFIED="1579056500081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runoob" />
     <SUITE FILE_PATH="coverage/python$2_1.coverage" NAME="2.1 Coverage Results" MODIFIED="1579007831845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02" />
   </component>
 </project>
