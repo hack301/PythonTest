@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cae90ccb-3f49-4291-8071-2cf8a221d259" name="Default Changelist" comment="添加字符串学习">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/runoob/socketServer.py" beforeDir="false" afterPath="$PROJECT_DIR$/runoob/socketServer.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +42,29 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.2.1">
+  <component name="RunManager" selected="Python.socketServer">
+    <configuration name="01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/runoob" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/runoob/01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="2.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -86,10 +109,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="socketServer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/runoob" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/runoob/socketServer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.2.1" />
+        <item itemvalue="Python.socketServer" />
         <item itemvalue="Python.mysql" />
+        <item itemvalue="Python.01" />
+        <item itemvalue="Python.2.1" />
       </list>
     </recent_temporary>
   </component>
@@ -119,6 +166,13 @@
       <workItem from="1578921655719" duration="1595000" />
       <workItem from="1579004703010" duration="2961000" />
       <workItem from="1579092925660" duration="248000" />
+      <workItem from="1579183422257" duration="17000" />
+      <workItem from="1579413383719" duration="45000" />
+      <workItem from="1579413454820" duration="17000" />
+      <workItem from="1579773435426" duration="37000" />
+      <workItem from="1579773489274" duration="42000" />
+      <workItem from="1580189108218" duration="63000" />
+      <workItem from="1580189211506" duration="1898000" />
     </task>
     <task id="LOCAL-00001" summary="Default Changelist">
       <created>1578922466377</created>
@@ -169,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579093711423</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="添加字符串学习">
+      <created>1579093843184</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1579093843184</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,11 +242,15 @@
     <option name="LAST_COMMIT_MESSAGE" value="添加字符串学习" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="566" y="178" key="CommitChangelistDialog2" timestamp="1579093066634">
+    <state x="640" y="318" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1579773464541">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="640" y="318" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1579773464541" />
+    <state x="566" y="178" key="CommitChangelistDialog2" timestamp="1579093842585">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="566" y="160" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579046801101" />
-    <state x="566" y="178" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1579093066634" />
+    <state x="566" y="178" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1579093842585" />
     <state x="92" y="92" width="1736" height="976" key="DiffContextDialog" timestamp="1579093350177">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -202,35 +267,35 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="835" y="476" width="274" height="208" key="Github.ShareDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1578923463535" />
-    <state width="924" height="321" key="GridCell.Tab.0.bottom" timestamp="1579046821191">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="365" key="GridCell.Tab.0.bottom" timestamp="1579096877546">
+      <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state width="924" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579046821191" />
-    <state width="924" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1579007831859" />
-    <state width="924" height="321" key="GridCell.Tab.0.center" timestamp="1579046821190">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="365" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1579096877546" />
+    <state width="1877" height="365" key="GridCell.Tab.0.center" timestamp="1579096877546">
+      <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state width="924" height="321" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579046821190" />
-    <state width="924" height="321" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1579007831859" />
-    <state width="924" height="321" key="GridCell.Tab.0.left" timestamp="1579046821190">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="365" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1579096877546" />
+    <state width="1877" height="365" key="GridCell.Tab.0.left" timestamp="1579096877545">
+      <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state width="924" height="321" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579046821190" />
-    <state width="924" height="321" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1579007831858" />
-    <state width="924" height="321" key="GridCell.Tab.0.right" timestamp="1579046821190">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="365" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1579096877545" />
+    <state width="1877" height="365" key="GridCell.Tab.0.right" timestamp="1579096877546">
+      <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state width="924" height="321" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579046821190" />
-    <state width="924" height="321" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1579007831859" />
+    <state width="1877" height="365" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1579096877546" />
     <state x="463" y="225" key="SettingsEditor" timestamp="1579093831815">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="463" y="225" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1579093831815" />
-    <state x="552" y="316" key="Vcs.Push.Dialog.v2" timestamp="1579093055431">
+    <state x="552" y="316" key="Vcs.Push.Dialog.v2" timestamp="1579093852742">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="552" y="283" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579046810065" />
-    <state x="552" y="316" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1579093055431" />
+    <state x="552" y="316" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1579093852742" />
     <state x="652" y="408" key="com.intellij.ide.util.TipDialog" timestamp="1578921587807">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -257,7 +322,9 @@
     <state x="623" y="255" width="672" height="678" key="search.everywhere.popup/0.0.1920.1160@0.0.1920.1160" timestamp="1579007244029" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/python$mysql.coverage" NAME="mysql Coverage Results" MODIFIED="1579004843992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runoob" />
+    <SUITE FILE_PATH="coverage/python$mysql.coverage" NAME="mysql Coverage Results" MODIFIED="1579093886611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runoob" />
+    <SUITE FILE_PATH="coverage/python$socketServer.coverage" NAME="socketServer Coverage Results" MODIFIED="1580190389129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runoob" />
+    <SUITE FILE_PATH="coverage/python$01.coverage" NAME="01 Coverage Results" MODIFIED="1579093878115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runoob" />
     <SUITE FILE_PATH="coverage/python$2_1.coverage" NAME="2.1 Coverage Results" MODIFIED="1579007831845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02" />
   </component>
 </project>
