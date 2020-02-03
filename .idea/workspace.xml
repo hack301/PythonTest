@@ -290,15 +290,19 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="552" y="242" key="#Deployment/0.0.1920.1160@0.0.1920.1160" timestamp="1580719868078" />
+    <state x="414" y="238" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580720011763">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="414" y="238" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1580720011763" />
     <state x="640" y="318" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1579773464541">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="640" y="318" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1579773464541" />
-    <state x="566" y="178" key="CommitChangelistDialog2" timestamp="1580719870837">
+    <state x="566" y="178" key="CommitChangelistDialog2" timestamp="1580719881712">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="566" y="160" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579046801101" />
-    <state x="566" y="178" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1580719870837" />
+    <state x="566" y="178" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1580719881712" />
     <state x="92" y="92" width="1736" height="976" key="DiffContextDialog" timestamp="1579093350177">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -335,10 +339,10 @@
     </state>
     <state width="924" height="321" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579046821190" />
     <state width="1877" height="365" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1580719262750" />
-    <state x="463" y="225" key="SettingsEditor" timestamp="1580636548573">
+    <state x="463" y="225" key="SettingsEditor" timestamp="1580719977406">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="463" y="225" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1580636548573" />
+    <state x="463" y="225" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1580719977406" />
     <state x="552" y="316" key="Vcs.Push.Dialog.v2" timestamp="1580652749366">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
