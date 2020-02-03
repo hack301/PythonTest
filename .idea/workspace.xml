@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cae90ccb-3f49-4291-8071-2cf8a221d259" name="Default Changelist" comment="添加字符串学习">
-      <change afterPath="$PROJECT_DIR$/runoob/Fun1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runoob/Fun2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runoob/conditional.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runoob/iterator.py" afterDir="false" />
+    <list default="true" id="cae90ccb-3f49-4291-8071-2cf8a221d259" name="Default Changelist" comment="添加流程控制和函数">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/runoob/mysql.py" beforeDir="false" afterPath="$PROJECT_DIR$/runoob/mysql.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/runoob/Fun2.py" beforeDir="false" afterPath="$PROJECT_DIR$/runoob/Fun2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -204,7 +200,8 @@
       <workItem from="1580189108218" duration="63000" />
       <workItem from="1580189211506" duration="1898000" />
       <workItem from="1580220754386" duration="1659000" />
-      <workItem from="1580627816740" duration="9850000" />
+      <workItem from="1580627816740" duration="12570000" />
+      <workItem from="1580719748010" duration="122000" />
     </task>
     <task id="LOCAL-00001" summary="Default Changelist">
       <created>1578922466377</created>
@@ -269,7 +266,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580220765460</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="添加流程控制和函数">
+      <created>1580652723446</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1580652723446</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -278,18 +282,23 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Default Changelist" />
     <MESSAGE value="添加字符串学习" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加字符串学习" />
+    <MESSAGE value="添加流程控制和函数" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加流程控制和函数" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="552" y="242" key="#Deployment" timestamp="1580719868078">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="552" y="242" key="#Deployment/0.0.1920.1160@0.0.1920.1160" timestamp="1580719868078" />
     <state x="640" y="318" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1579773464541">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="640" y="318" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1579773464541" />
-    <state x="566" y="178" key="CommitChangelistDialog2" timestamp="1580220762720">
+    <state x="566" y="178" key="CommitChangelistDialog2" timestamp="1580719870837">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="566" y="160" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579046801101" />
-    <state x="566" y="178" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1580220762720" />
+    <state x="566" y="178" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1580719870837" />
     <state x="92" y="92" width="1736" height="976" key="DiffContextDialog" timestamp="1579093350177">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -306,35 +315,35 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="835" y="476" width="274" height="208" key="Github.ShareDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1578923463535" />
-    <state width="1860" height="365" key="GridCell.Tab.0.bottom" timestamp="1580652667908">
+    <state width="1877" height="365" key="GridCell.Tab.0.bottom" timestamp="1580719262750">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state width="924" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579046821191" />
-    <state width="1860" height="365" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1580652667908" />
-    <state width="1860" height="365" key="GridCell.Tab.0.center" timestamp="1580652667908">
+    <state width="1877" height="365" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1580719262750" />
+    <state width="1877" height="365" key="GridCell.Tab.0.center" timestamp="1580719262750">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state width="924" height="321" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579046821190" />
-    <state width="1860" height="365" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1580652667908" />
-    <state width="1860" height="365" key="GridCell.Tab.0.left" timestamp="1580652667907">
+    <state width="1877" height="365" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1580719262750" />
+    <state width="1877" height="365" key="GridCell.Tab.0.left" timestamp="1580719262750">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state width="924" height="321" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579046821190" />
-    <state width="1860" height="365" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1580652667907" />
-    <state width="1860" height="365" key="GridCell.Tab.0.right" timestamp="1580652667908">
+    <state width="1877" height="365" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1580719262750" />
+    <state width="1877" height="365" key="GridCell.Tab.0.right" timestamp="1580719262750">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state width="924" height="321" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579046821190" />
-    <state width="1860" height="365" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1580652667908" />
+    <state width="1877" height="365" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1580719262750" />
     <state x="463" y="225" key="SettingsEditor" timestamp="1580636548573">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="463" y="225" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1580636548573" />
-    <state x="552" y="316" key="Vcs.Push.Dialog.v2" timestamp="1580220775011">
+    <state x="552" y="316" key="Vcs.Push.Dialog.v2" timestamp="1580652749366">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="552" y="283" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579046810065" />
-    <state x="552" y="316" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1580220775011" />
+    <state x="552" y="316" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1580652749366" />
     <state x="652" y="408" key="com.intellij.ide.util.TipDialog" timestamp="1578921587807">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -367,7 +376,7 @@
     <SUITE FILE_PATH="coverage/python$03.coverage" NAME="03 Coverage Results" MODIFIED="1580636280413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runoob" />
     <SUITE FILE_PATH="coverage/python$Fun1.coverage" NAME="Fun1 Coverage Results" MODIFIED="1580651295279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runoob" />
     <SUITE FILE_PATH="coverage/python$01.coverage" NAME="01 Coverage Results" MODIFIED="1579093878115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runoob" />
-    <SUITE FILE_PATH="coverage/python$Fun2.coverage" NAME="Fun2 Coverage Results" MODIFIED="1580652667896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runoob" />
+    <SUITE FILE_PATH="coverage/python$Fun2.coverage" NAME="Fun2 Coverage Results" MODIFIED="1580719774296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runoob" />
     <SUITE FILE_PATH="coverage/python$conditional.coverage" NAME="conditional Coverage Results" MODIFIED="1580646220927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runoob" />
     <SUITE FILE_PATH="coverage/python$2_1.coverage" NAME="2.1 Coverage Results" MODIFIED="1580628359551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02" />
   </component>
