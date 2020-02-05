@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="pythonTest">
+  <component name="PublishConfigData" serverName="pythonTest" uploadOnCheckin="686ccd65-5849-42af-8386-b46e9454e0ca">
     <serverData>
       <paths name="pythonTest">
         <serverdata>
@@ -10,5 +10,6 @@
         </serverdata>
       </paths>
     </serverData>
+    <option name="myUploadOnCheckinName" value="pythonTest" />
   </component>
 </project>

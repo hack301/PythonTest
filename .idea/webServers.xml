@@ -2,10 +2,10 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="686ccd65-5849-42af-8386-b46e9454e0ca" name="pythonTest" url="http://192.168.0.251">
-        <fileTransfer host="192.168.0.251" port="21">
+      <webServer id="686ccd65-5849-42af-8386-b46e9454e0ca" name="pythonTest" url="http://106.12.82.30">
+        <fileTransfer host="106.12.82.30" port="21">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+            <advancedOptions controlEncoding="utf-8" dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
           <option name="port" value="21" />
         </fileTransfer>

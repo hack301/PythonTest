@@ -1,4 +1,4 @@
-#! /usr/bin/env python3
+#!/usr/bin/env python3
 import pymysql
 
 db = pymysql.connect("192.168.192.118", "ISee", "rsJcAWeSeX85aWGD", "ISee")
