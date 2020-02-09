@@ -4,7 +4,7 @@ for i in sys.argv:
     print(i)
 print(sys.version)
 print(sys.platform)
-
+print(sys.hash_info)
 # 引用自定义模块
 import supportModule
 supportModule.sayName("test")

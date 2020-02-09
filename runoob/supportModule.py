@@ -9,3 +9,7 @@ def sayName(name):
 def sayAge(age):
     print(age)
     return
+if __name__  =='__main__':
+    print("程序自身在运行")
+else:
+    print("我来自另外一个模块")
