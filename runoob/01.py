@@ -20,7 +20,6 @@ print(str *2)   #   输出2次字符串
 print(str +' Hello')    #   拼接字符串
 print('hello\nrunoob')  #   使用反斜杠  +n换行
 print(r'hello\nrunoob') #   在字符串前面添加一个 r，表示原始字符串，不会发生转义
-
 #   等待用户输入
 #   input("\n\n按下 enter 键后退出。")
 x="a"
